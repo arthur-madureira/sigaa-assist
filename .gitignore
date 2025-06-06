@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Screenshots de debug
+*.png
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
