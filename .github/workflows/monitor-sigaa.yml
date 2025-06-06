@@ -21,10 +21,14 @@ jobs:
         cache: 'npm'
         
     - name: Install dependencies
-      run: npm ci
-      
+      run: |
+        echo "Installing npm dependencies..."
+        npm ci
+        echo "Dependencies installed successfully"
+        
     - name: Install additional Chrome dependencies
       run: |
+        echo "Installing Chrome dependencies..."
         sudo apt-get update
         sudo apt-get install -y \
           fonts-liberation \
@@ -45,6 +49,7 @@ jobs:
           libxkbcommon0 \
           libxrandr2 \
           xdg-utils
+        echo "Chrome dependencies installed successfully"
     
     - name: Create .env file
       run: |
@@ -52,9 +57,23 @@ jobs:
         echo "SIGAA_PASSWORD=${{ secrets.SIGAA_PASSWORD }}" >> .env
         echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" >> .env
         echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}" >> .env
+        echo "HEADLESS=true" >> .env
+        
+    - name: Debug environment
+      run: |
+        echo "Node version: $(node --version)"
+        echo "NPM version: $(npm --version)"
+        echo "Current directory: $(pwd)"
+        echo "Files in directory:"
+        ls -la
+        echo "Package.json scripts:"
+        cat package.json | grep -A5 '"scripts"'
         
     - name: Run monitoring script
-      run: npm run monitor
+      run: |
+        echo "Running monitoring script..."
+        npm run monitor
+      continue-on-error: false
       
     - name: Commit and push changes
       run: |
