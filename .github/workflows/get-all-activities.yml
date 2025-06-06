@@ -1,0 +1,73 @@
+name: Get All Activities
+
+on:
+  workflow_dispatch:
+    inputs:
+      telegram_chat_id:
+        description: 'Chat ID do Telegram para enviar as atividades'
+        required: true
+        default: '6678734128'
+      send_all:
+        description: 'Enviar todas as atividades (true) ou apenas novas (false)'
+        required: false
+        default: 'true'
+
+jobs:
+  get-activities:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: |
+        echo "Installing npm dependencies..."
+        npm ci
+        echo "Dependencies installed successfully"
+        
+    - name: Install additional Chrome dependencies
+      run: |
+        echo "Installing Chrome dependencies..."
+        sudo apt-get update
+        sudo apt-get install -y \
+          fonts-liberation \
+          libasound2t64 \
+          libatk-bridge2.0-0 \
+          libatk1.0-0 \
+          libatspi2.0-0 \
+          libcups2 \
+          libdbus-1-3 \
+          libdrm2 \
+          libgtk-3-0 \
+          libnspr4 \
+          libnss3 \
+          libwayland-client0 \
+          libxcomposite1 \
+          libxdamage1 \
+          libxfixes3 \
+          libxkbcommon0 \
+          libxrandr2 \
+          xdg-utils
+        echo "Chrome dependencies installed successfully"
+    
+    - name: Create .env file
+      run: |
+        echo "SIGAA_USERNAME=${{ secrets.SIGAA_USERNAME }}" >> .env
+        echo "SIGAA_PASSWORD=${{ secrets.SIGAA_PASSWORD }}" >> .env
+        echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" >> .env
+        echo "TELEGRAM_CHAT_ID=${{ github.event.inputs.telegram_chat_id }}" >> .env
+        echo "HEADLESS=true" >> .env
+        echo "SEND_ALL=${{ github.event.inputs.send_all }}" >> .env
+        
+    - name: Run activity extraction
+      run: |
+        echo "Running activity extraction..."
+        node get-all-activities.js
+      continue-on-error: false

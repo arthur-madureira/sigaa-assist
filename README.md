@@ -1,12 +1,15 @@
-# SIGAA Automation + Telegram Bot
+# 🎓 SIGAA Bot com Webhook GitHub Actions
 
-Automação para extrair atividades acadêmicas do SIGAA da UFRN com integração ao Telegram.
+Sistema automatizado para monitorar atividades acadêmicas do SIGAA via Telegram, utilizando GitHub Actions para processamento.
 
 ## 🚀 Funcionalidades
 
+- ✅ **Monitoramento Automático**: Executa a cada 5 minutos verificando novas atividades
+- ✅ **Comando Manual**: `/atividades` para buscar todas as atividades via webhook
+- ✅ **Notificações Inteligentes**: Envia apenas atividades novas no modo automático
+- ✅ **GitHub Actions**: Processamento na nuvem sem necessidade de servidor próprio
 - ✅ Login automático no SIGAA
-- ✅ Extração de atividades acadêmicas
-- ✅ Exibição organizada por semestre
+- ✅ Exibição organizada por disciplina
 - ✅ Bot do Telegram para consultas remotas
 - ✅ Identificação de atividades urgentes
 
@@ -142,3 +145,126 @@ O script exibe logs detalhados durante a execução:
 - ✅ Login realizado
 - 📋 Extraindo atividades
 - 📊 Resultados encontrados
+
+## 📁 Arquivos do Projeto
+
+### Scripts Principais
+- `monitor.js` - Monitoramento automático (detecta apenas novas atividades)
+- `get-all-activities.js` - Busca todas as atividades (para comando manual)
+- `webhook-server.js` - Servidor webhook para comandos Telegram
+- `telegram-bot.js` - Bot local (alternativa ao webhook)
+
+### Workflows GitHub Actions
+- `.github/workflows/monitor-sigaa.yml` - Executa a cada 5 minutos
+- `.github/workflows/get-all-activities.yml` - Executado via webhook/comando
+
+## ⚙️ Configuração do Webhook
+
+### 1. GitHub Token
+Para o webhook funcionar, você precisa de um GitHub Personal Access Token:
+
+1. Vá em: https://github.com/settings/tokens
+2. Clique em "Generate new token (classic)"
+3. Selecione as permissões:
+   - ✅ `repo` (Full control of private repositories)
+   - ✅ `workflow` (Update GitHub Action workflows)
+4. Copie o token gerado
+
+### 2. GitHub Secrets Atualizados
+Configure no repositório GitHub em **Settings → Secrets and variables → Actions**:
+
+```
+SIGAA_USERNAME=seu_usuario_sigaa
+SIGAA_PASSWORD=sua_senha_sigaa
+TELEGRAM_BOT_TOKEN=8005667257:AAFtMKaa2fP-hDJA5Sw6dIQzoqijSIulKDg
+TELEGRAM_CHAT_ID=6678734128
+GITHUB_TOKEN=seu_github_personal_access_token
+```
+
+### 3. Teste do Novo Workflow
+O novo workflow `get-all-activities.yml` pode ser testado:
+
+1. Vá em: https://github.com/arthur-madureira/sigaa-assist/actions
+2. Clique em "Get All Activities"
+3. Clique em "Run workflow"
+4. Preencha:
+   - `telegram_chat_id`: 6678734128
+   - `send_all`: true
+5. Execute e verifique se recebe as atividades no Telegram
+
+## 🤖 Comandos Telegram
+
+### Modo Webhook (Recomendado)
+Quando você enviar `/atividades` no Telegram:
+1. 🤖 Bot webhook recebe o comando
+2. 🚀 Dispara o GitHub Actions automaticamente
+3. ⚙️ GitHub executa `get-all-activities.js`
+4. 📱 Você recebe todas as atividades no Telegram
+
+### Comandos Disponíveis
+- `/atividades` - Busca e envia todas as atividades do SIGAA
+- `/status` - Verifica se o webhook está funcionando
+- `/help` - Lista de comandos disponíveis
+
+## 🔧 Scripts NPM Atualizados
+
+```bash
+# Monitoramento automático (apenas novas atividades)
+npm run monitor
+
+# Buscar todas as atividades manualmente
+npm run get-all
+
+# Executar servidor webhook
+npm run webhook
+
+# Bot local (alternativa)
+npm run bot
+```
+
+## 🌐 Deploy do Webhook (Opcional)
+
+Se quiser usar o comando `/atividades`, você pode fazer deploy do webhook:
+
+### Opção 1: Railway (Gratuito)
+1. Crie conta em https://railway.app
+2. Conecte seu repositório GitHub
+3. Configure as variáveis de ambiente
+4. O Railway fornece uma URL automática
+
+### Opção 2: Heroku
+1. Crie conta em https://heroku.com
+2. Instale Heroku CLI
+3. Deploy:
+```bash
+git push heroku main
+```
+
+### Opção 3: Local (Para testes)
+```bash
+# Instalar ngrok para tunnel
+npm install -g ngrok
+
+# Em um terminal
+npm run webhook
+
+# Em outro terminal
+ngrok http 3000
+
+# Configure WEBHOOK_URL com a URL do ngrok
+```
+
+## 📊 Comparação dos Modos
+
+| Modo | Prós | Contras | Uso |
+|------|------|---------|-----|
+| **GitHub Actions Automático** | ✅ Sem servidor<br>✅ Apenas novas atividades<br>✅ Executa sozinho | ❌ Não é sob demanda | Monitoramento contínuo |
+| **Webhook + GitHub Actions** | ✅ Comando manual<br>✅ Todas as atividades<br>✅ Processamento na nuvem | ❌ Precisa de servidor webhook | Consultas sob demanda |
+| **Bot Local** | ✅ Resposta rápida<br>✅ Sem dependências externas | ❌ Precisa estar rodando<br>❌ Consome recursos locais | Desenvolvimento/testes |
+
+## ✅ Status Atual
+
+- ✅ **Monitor automático funcionando** (roda a cada 5 minutos)
+- ✅ **Workflow manual criado** (`get-all-activities.yml`)
+- ✅ **Scripts webhook prontos** (precisam de deploy)
+- ✅ **Bot local funcionando** (alternativa)
