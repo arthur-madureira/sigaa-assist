@@ -1,15 +1,5 @@
 [
   {
-    "id": "2025.1-PROBABILIDADE-30/05/2025-Avaliação:-2ª-Avaliação",
-    "semestre": "2025.1",
-    "data": "30/05/2025",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "Avaliação: 2ª Avaliação",
-    "titulo": null,
-    "temIcone": false,
-    "iconeTitle": null
-  },
-  {
     "id": "2025.1-BANCO-DE-DADOS-31/05/2025-12:00-Tarefa:",
     "semestre": "2025.1",
     "data": "31/05/2025 12:00",
@@ -40,9 +30,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-08/06/2025-23:59-(2-dias)-Tarefa:",
+    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-08/06/2025-23:59-(1-dia)-Tarefa:",
     "semestre": "2025.1",
-    "data": "08/06/2025 23:59 (2 dias)",
+    "data": "08/06/2025 23:59 (1 dia)",
     "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
     "tipo": "Tarefa:",
     "titulo": "Atividade (1 presença 04/06/2025)",
