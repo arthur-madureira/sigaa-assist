@@ -20,13 +20,13 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-08/06/2025-23:59-(Hoje)-Tarefa:",
+    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-08/06/2025-23:59-Tarefa:",
     "semestre": "2025.1",
-    "data": "08/06/2025 23:59 (Hoje)",
+    "data": "08/06/2025 23:59",
     "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
     "tipo": "Tarefa:",
     "titulo": "Atividade (1 presença 04/06/2025)",
-    "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
+    "temIcone": false,
+    "iconeTitle": null
   }
 ]
