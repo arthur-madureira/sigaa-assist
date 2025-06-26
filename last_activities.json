@@ -1,18 +1,8 @@
 [
   {
-    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-18/06/2025-Avaliação:-Prova-das-unidades-1-e-2",
+    "id": "2025.1-BANCO-DE-DADOS-09/07/2025-(13-dias)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
-    "data": "18/06/2025",
-    "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
-    "tipo": "Avaliação: Prova das unidades 1 e 2",
-    "titulo": null,
-    "temIcone": false,
-    "iconeTitle": null
-  },
-  {
-    "id": "2025.1-BANCO-DE-DADOS-09/07/2025-(14-dias)-Avaliação:-3ª-Avaliação",
-    "semestre": "2025.1",
-    "data": "09/07/2025 (14 dias)",
+    "data": "09/07/2025 (13 dias)",
     "disciplina": "BANCO DE DADOS",
     "tipo": "Avaliação: 3ª Avaliação",
     "titulo": null,
