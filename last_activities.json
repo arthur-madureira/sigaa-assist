@@ -1,8 +1,8 @@
 [
   {
-    "id": "2025.1-BANCO-DE-DADOS-09/07/2025-(3-dias)-Avaliação:-3ª-Avaliação",
+    "id": "2025.1-BANCO-DE-DADOS-09/07/2025-(2-dias)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
-    "data": "09/07/2025 (3 dias)",
+    "data": "09/07/2025 (2 dias)",
     "disciplina": "BANCO DE DADOS",
     "tipo": "Avaliação: 3ª Avaliação",
     "titulo": null,
@@ -10,19 +10,19 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.1-SISTEMAS-OPERACIONAIS-14/07/2025-(8-dias)-Avaliação:-3ª-Avaliação",
+    "id": "2025.1-SISTEMAS-OPERACIONAIS-14/07/2025-(7-dias)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
-    "data": "14/07/2025 (8 dias)",
+    "data": "14/07/2025 (7 dias)",
     "disciplina": "SISTEMAS OPERACIONAIS",
     "tipo": "Avaliação: 3ª Avaliação",
     "titulo": null,
     "temIcone": true,
-    "iconeTitle": "Atividade no mês atual"
+    "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-15/07/2025-23:59-(9-dias)-Tarefa:",
+    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-15/07/2025-23:59-(8-dias)-Tarefa:",
     "semestre": "2025.1",
-    "data": "15/07/2025 23:59 (9 dias)",
+    "data": "15/07/2025 23:59 (8 dias)",
     "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
     "tipo": "Tarefa:",
     "titulo": "Trabalho Final",
@@ -30,9 +30,9 @@
     "iconeTitle": "Atividade no mês atual"
   },
   {
-    "id": "2025.1-PROBABILIDADE-18/07/2025-(12-dias)-Avaliação:-3ª-Avaliação",
+    "id": "2025.1-PROBABILIDADE-18/07/2025-(11-dias)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
-    "data": "18/07/2025 (12 dias)",
+    "data": "18/07/2025 (11 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "Avaliação: 3ª Avaliação",
     "titulo": null,
