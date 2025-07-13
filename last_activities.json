@@ -10,16 +10,6 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.1-PROBABILIDADE-13/07/2025-23:59-(Hoje)-Tarefa:",
-    "semestre": "2025.1",
-    "data": "13/07/2025 23:59 (Hoje)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "Tarefa:",
-    "titulo": "Envio da resolução da atividade do Multiprova!",
-    "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
-  },
-  {
     "id": "2025.1-SISTEMAS-OPERACIONAIS-14/07/2025-(1-dia)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
     "data": "14/07/2025 (1 dia)",
@@ -36,6 +26,16 @@
     "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
     "tipo": "Tarefa:",
     "titulo": "Trabalho Final",
+    "temIcone": true,
+    "iconeTitle": "Atividade na Semana"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-16/07/2025-23:59-(3-dias)-Tarefa:",
+    "semestre": "2025.1",
+    "data": "16/07/2025 23:59 (3 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "Tarefa:",
+    "titulo": "Envio da resolução da atividade do Multiprova!",
     "temIcone": true,
     "iconeTitle": "Atividade na Semana"
   },
