@@ -37,7 +37,7 @@
     "tipo": "Tarefa:",
     "titulo": "Envio da resolução da atividade do Multiprova!",
     "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
+    "iconeTitle": "Atividade concluída"
   },
   {
     "id": "2025.1-PROBABILIDADE-18/07/2025-(3-dias)-Avaliação:-3ª-Avaliação",
@@ -57,7 +57,7 @@
     "tipo": "",
     "titulo": "Atividade da Semana 4",
     "temIcone": true,
-    "iconeTitle": "Atividade no mês atual"
+    "iconeTitle": "Atividade concluída"
   },
   {
     "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
@@ -67,6 +67,26 @@
     "tipo": "",
     "titulo": "Atividade da Semana 5",
     "temIcone": true,
-    "iconeTitle": "Atividade no mês atual"
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "semestre": "2025.1",
+    "data": "23/07/2025 23:59 (8 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 5",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "semestre": "2025.1",
+    "data": "23/07/2025 23:59 (8 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 5",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
   }
 ]
