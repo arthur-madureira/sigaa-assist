@@ -20,19 +20,19 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-15/07/2025-23:59-(Hoje)-Tarefa:",
+    "id": "2025.1-LINGUAGEM-DE-PROGRAMAÇÃO-II-15/07/2025-23:59-Tarefa:",
     "semestre": "2025.1",
-    "data": "15/07/2025 23:59 (Hoje)",
+    "data": "15/07/2025 23:59",
     "disciplina": "LINGUAGEM DE PROGRAMAÇÃO II",
     "tipo": "Tarefa:",
     "titulo": "Trabalho Final",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
+    "temIcone": false,
+    "iconeTitle": null
   },
   {
-    "id": "2025.1-PROBABILIDADE-16/07/2025-23:59-(1-dia)-Tarefa:",
+    "id": "2025.1-PROBABILIDADE-16/07/2025-23:59-(Hoje)-Tarefa:",
     "semestre": "2025.1",
-    "data": "16/07/2025 23:59 (1 dia)",
+    "data": "16/07/2025 23:59 (Hoje)",
     "disciplina": "PROBABILIDADE",
     "tipo": "Tarefa:",
     "titulo": "Envio da resolução da atividade do Multiprova!",
@@ -40,9 +40,9 @@
     "iconeTitle": "Atividade concluída"
   },
   {
-    "id": "2025.1-PROBABILIDADE-18/07/2025-(3-dias)-Avaliação:-3ª-Avaliação",
+    "id": "2025.1-PROBABILIDADE-18/07/2025-(2-dias)-Avaliação:-3ª-Avaliação",
     "semestre": "2025.1",
-    "data": "18/07/2025 (3 dias)",
+    "data": "18/07/2025 (2 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "Avaliação: 3ª Avaliação",
     "titulo": null,
@@ -50,9 +50,9 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(7-dias)-",
     "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (8 dias)",
+    "data": "23/07/2025 23:59 (7 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
     "titulo": "Atividade da Semana 4",
@@ -60,9 +60,9 @@
     "iconeTitle": "Atividade concluída"
   },
   {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(7-dias)-",
     "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (8 dias)",
+    "data": "23/07/2025 23:59 (7 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
     "titulo": "Atividade da Semana 5",
@@ -70,9 +70,9 @@
     "iconeTitle": "Atividade concluída"
   },
   {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(7-dias)-",
     "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (8 dias)",
+    "data": "23/07/2025 23:59 (7 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
     "titulo": "Atividade da Semana 5",
@@ -80,9 +80,9 @@
     "iconeTitle": "Atividade concluída"
   },
   {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(8-dias)-",
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(7-dias)-",
     "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (8 dias)",
+    "data": "23/07/2025 23:59 (7 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
     "titulo": "Atividade da Semana 5",
