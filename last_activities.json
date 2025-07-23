@@ -35,67 +35,27 @@
     "data": "23/07/2025 23:59 (Hoje)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
+    "titulo": "Atividade da Semana 5",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(Hoje)-",
+    "semestre": "2025.1",
+    "data": "23/07/2025 23:59 (Hoje)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 5",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(Hoje)-",
+    "semestre": "2025.1",
+    "data": "23/07/2025 23:59 (Hoje)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
     "titulo": "Atividade da Semana 4",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(Hoje)-",
-    "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (Hoje)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 5",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-23/07/2025-23:59-(Hoje)-",
-    "semestre": "2025.1",
-    "data": "23/07/2025 23:59 (Hoje)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 5",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
-    "semestre": "2025.1",
-    "data": "25/07/2025 23:59 (2 dias)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 7",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
-    "semestre": "2025.1",
-    "data": "25/07/2025 23:59 (2 dias)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 7",
-    "temIcone": true,
-    "iconeTitle": "Atividade concluída"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
-    "semestre": "2025.1",
-    "data": "25/07/2025 23:59 (2 dias)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 11",
-    "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
-  },
-  {
-    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
-    "semestre": "2025.1",
-    "data": "25/07/2025 23:59 (2 dias)",
-    "disciplina": "PROBABILIDADE",
-    "tipo": "",
-    "titulo": "Atividade da Semana 8",
     "temIcone": true,
     "iconeTitle": "Atividade concluída"
   },
@@ -125,8 +85,48 @@
     "data": "25/07/2025 23:59 (2 dias)",
     "disciplina": "PROBABILIDADE",
     "tipo": "",
+    "titulo": "Atividade da Semana 11",
+    "temIcone": true,
+    "iconeTitle": "Atividade na Semana"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
+    "semestre": "2025.1",
+    "data": "25/07/2025 23:59 (2 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
     "titulo": "Atividade da Semana 17",
     "temIcone": true,
     "iconeTitle": "Atividade na Semana"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
+    "semestre": "2025.1",
+    "data": "25/07/2025 23:59 (2 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 7",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
+    "semestre": "2025.1",
+    "data": "25/07/2025 23:59 (2 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 7",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
+  },
+  {
+    "id": "2025.1-PROBABILIDADE-25/07/2025-23:59-(2-dias)-",
+    "semestre": "2025.1",
+    "data": "25/07/2025 23:59 (2 dias)",
+    "disciplina": "PROBABILIDADE",
+    "tipo": "",
+    "titulo": "Atividade da Semana 8",
+    "temIcone": true,
+    "iconeTitle": "Atividade concluída"
   }
 ]
