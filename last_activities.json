@@ -20,19 +20,19 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-19/09/2025-(Hoje)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-19/09/2025-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "19/09/2025 (Hoje)",
+    "data": "19/09/2025",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
-    "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
+    "temIcone": false,
+    "iconeTitle": null
   },
   {
-    "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-30/09/2025-(11-dias)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-30/09/2025-(10-dias)-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "30/09/2025 (11 dias)",
+    "data": "30/09/2025 (10 dias)",
     "disciplina": "PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS III",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
@@ -40,9 +40,9 @@
     "iconeTitle": "Atividade no mês atual"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-02/10/2025-(13-dias)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-02/10/2025-(12-dias)-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "02/10/2025 (13 dias)",
+    "data": "02/10/2025 (12 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
@@ -50,9 +50,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-02/10/2025-23:59-(13-dias)-Tarefa:",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-02/10/2025-23:59-(12-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "02/10/2025 23:59 (13 dias)",
+    "data": "02/10/2025 23:59 (12 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Tarefa:",
     "titulo": "Entrega U1",
