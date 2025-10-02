@@ -10,9 +10,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-02/10/2025-23:59-(1-dia)-Tarefa:",
+    "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-02/10/2025-23:59-(Hoje)-Tarefa:",
     "semestre": "2025.2",
-    "data": "02/10/2025 23:59 (1 dia)",
+    "data": "02/10/2025 23:59 (Hoje)",
     "disciplina": "PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS III",
     "tipo": "Tarefa:",
     "titulo": "1ª Avaliação – Elaboração do Projeto de Pesquisa",
@@ -20,23 +20,23 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(8-dias)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(7-dias)-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "09/10/2025 (8 dias)",
+    "data": "09/10/2025 (7 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
     "temIcone": true,
-    "iconeTitle": "Atividade no mês atual"
+    "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(8-dias)-Tarefa:",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(7-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "09/10/2025 23:59 (8 dias)",
+    "data": "09/10/2025 23:59 (7 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Tarefa:",
     "titulo": "Entrega U1",
     "temIcone": true,
-    "iconeTitle": "Atividade no mês atual"
+    "iconeTitle": "Atividade na Semana"
   }
 ]
