@@ -20,9 +20,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(3-dias)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(2-dias)-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "09/10/2025 (3 dias)",
+    "data": "09/10/2025 (2 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
@@ -30,13 +30,23 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(3-dias)-Tarefa:",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(2-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "09/10/2025 23:59 (3 dias)",
+    "data": "09/10/2025 23:59 (2 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Tarefa:",
     "titulo": "Entrega U1",
     "temIcone": true,
     "iconeTitle": "Atividade na Semana"
+  },
+  {
+    "id": "2025.2-MODELAGEM-E-SIMULAÇÃO-COMPUTACIONAL-22/10/2025-(15-dias)-Avaliação:-2ª-Avaliação",
+    "semestre": "2025.2",
+    "data": "22/10/2025 (15 dias)",
+    "disciplina": "MODELAGEM E SIMULAÇÃO COMPUTACIONAL",
+    "tipo": "Avaliação: 2ª Avaliação",
+    "titulo": null,
+    "temIcone": true,
+    "iconeTitle": "Atividade no mês atual"
   }
 ]
