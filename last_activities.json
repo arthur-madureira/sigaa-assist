@@ -1,15 +1,5 @@
 [
   {
-    "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-30/09/2025-Avaliação:-1ª-Avaliação",
-    "semestre": "2025.2",
-    "data": "30/09/2025",
-    "disciplina": "PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS III",
-    "tipo": "Avaliação: 1ª Avaliação",
-    "titulo": null,
-    "temIcone": false,
-    "iconeTitle": null
-  },
-  {
     "id": "2025.2-PRÁTICAS-DE-LEITURA-E-ESCRITA-EM-PORTUGUÊS-III-02/10/2025-23:59-Tarefa:",
     "semestre": "2025.2",
     "data": "02/10/2025 23:59",
@@ -20,9 +10,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(2-dias)-Avaliação:-1ª-Avaliação",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-(1-dia)-Avaliação:-1ª-Avaliação",
     "semestre": "2025.2",
-    "data": "09/10/2025 (2 dias)",
+    "data": "09/10/2025 (1 dia)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Avaliação: 1ª Avaliação",
     "titulo": null,
@@ -30,9 +20,9 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(2-dias)-Tarefa:",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-09/10/2025-23:59-(1-dia)-Tarefa:",
     "semestre": "2025.2",
-    "data": "09/10/2025 23:59 (2 dias)",
+    "data": "09/10/2025 23:59 (1 dia)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Tarefa:",
     "titulo": "Entrega U1",
@@ -40,9 +30,9 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-MODELAGEM-E-SIMULAÇÃO-COMPUTACIONAL-22/10/2025-(15-dias)-Avaliação:-2ª-Avaliação",
+    "id": "2025.2-MODELAGEM-E-SIMULAÇÃO-COMPUTACIONAL-22/10/2025-(14-dias)-Avaliação:-2ª-Avaliação",
     "semestre": "2025.2",
-    "data": "22/10/2025 (15 dias)",
+    "data": "22/10/2025 (14 dias)",
     "disciplina": "MODELAGEM E SIMULAÇÃO COMPUTACIONAL",
     "tipo": "Avaliação: 2ª Avaliação",
     "titulo": null,
