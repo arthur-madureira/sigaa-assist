@@ -20,13 +20,33 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-MODELAGEM-E-SIMULAÇÃO-COMPUTACIONAL-22/10/2025-(7-dias)-Avaliação:-2ª-Avaliação",
+    "id": "2025.2-MODELAGEM-E-SIMULAÇÃO-COMPUTACIONAL-22/10/2025-(6-dias)-Avaliação:-2ª-Avaliação",
     "semestre": "2025.2",
-    "data": "22/10/2025 (7 dias)",
+    "data": "22/10/2025 (6 dias)",
     "disciplina": "MODELAGEM E SIMULAÇÃO COMPUTACIONAL",
     "tipo": "Avaliação: 2ª Avaliação",
     "titulo": null,
     "temIcone": true,
     "iconeTitle": "Atividade na Semana"
+  },
+  {
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-(15-dias)-Tarefa:",
+    "semestre": "2025.2",
+    "data": "31/10/2025 23:59 (15 dias)",
+    "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "tipo": "Tarefa:",
+    "titulo": "Lista de exercícios avaliativa (Unidade 2)",
+    "temIcone": true,
+    "iconeTitle": "Atividade no mês atual"
+  },
+  {
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-(15-dias)-Tarefa:",
+    "semestre": "2025.2",
+    "data": "31/10/2025 23:59 (15 dias)",
+    "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "tipo": "Tarefa:",
+    "titulo": "Programas avaliativos da Unidade 2",
+    "temIcone": true,
+    "iconeTitle": "Atividade no mês atual"
   }
 ]
