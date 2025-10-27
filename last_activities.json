@@ -10,9 +10,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-(5-dias)-Tarefa:",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-(4-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "31/10/2025 23:59 (5 dias)",
+    "data": "31/10/2025 23:59 (4 dias)",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Tarefa:",
     "titulo": "Lista de exercícios avaliativa (Unidade 2)",
@@ -20,19 +20,19 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-03/11/2025-(8-dias)-Avaliação:-2ª-Avaliação",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-03/11/2025-(7-dias)-Avaliação:-2ª-Avaliação",
     "semestre": "2025.2",
-    "data": "03/11/2025 (8 dias)",
+    "data": "03/11/2025 (7 dias)",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Avaliação: 2ª Avaliação",
     "titulo": null,
-    "temIcone": false,
-    "iconeTitle": null
+    "temIcone": true,
+    "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-07/11/2025-(12-dias)-Avaliação:-2ª-Avaliação",
+    "id": "2025.2-BOAS-PRÁTICAS-DE-PROGRAMAÇÃO-07/11/2025-(11-dias)-Avaliação:-2ª-Avaliação",
     "semestre": "2025.2",
-    "data": "07/11/2025 (12 dias)",
+    "data": "07/11/2025 (11 dias)",
     "disciplina": "BOAS PRÁTICAS DE PROGRAMAÇÃO",
     "tipo": "Avaliação: 2ª Avaliação",
     "titulo": null,
@@ -40,9 +40,9 @@
     "iconeTitle": null
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-07/11/2025-23:59-(12-dias)-Tarefa:",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-07/11/2025-23:59-(11-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "07/11/2025 23:59 (12 dias)",
+    "data": "07/11/2025 23:59 (11 dias)",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Tarefa:",
     "titulo": "Programas avaliativos da Unidade 2",
