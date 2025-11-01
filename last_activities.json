@@ -1,18 +1,18 @@
 [
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-(Hoje)-Tarefa:",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-31/10/2025-23:59-Tarefa:",
     "semestre": "2025.2",
-    "data": "31/10/2025 23:59 (Hoje)",
+    "data": "31/10/2025 23:59",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Tarefa:",
     "titulo": "Lista de exercícios avaliativa (Unidade 2)",
-    "temIcone": true,
-    "iconeTitle": "Atividade na Semana"
+    "temIcone": false,
+    "iconeTitle": null
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-03/11/2025-(3-dias)-Avaliação:-2ª-Avaliação",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-03/11/2025-(2-dias)-Avaliação:-2ª-Avaliação",
     "semestre": "2025.2",
-    "data": "03/11/2025 (3 dias)",
+    "data": "03/11/2025 (2 dias)",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Avaliação: 2ª Avaliação",
     "titulo": null,
@@ -20,9 +20,9 @@
     "iconeTitle": "Atividade na Semana"
   },
   {
-    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-07/11/2025-23:59-(7-dias)-Tarefa:",
+    "id": "2025.2-FUNDAMENTOS-MATEMÁTICOS-DA-COMPUTAÇÃO-I-07/11/2025-23:59-(6-dias)-Tarefa:",
     "semestre": "2025.2",
-    "data": "07/11/2025 23:59 (7 dias)",
+    "data": "07/11/2025 23:59 (6 dias)",
     "disciplina": "FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
     "tipo": "Tarefa:",
     "titulo": "Programas avaliativos da Unidade 2",
